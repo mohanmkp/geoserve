@@ -1,0 +1,17 @@
+<layer>
+  <name>boundary</name>
+  <id>LayerInfoImpl--5c206f41:184c7b7cab7:-7ffa</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3ce3f0e3:184c7cf52cc:-7fff</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5c206f41:184c7b7cab7:-7ffb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-11-30 08:53:58.254 UTC</dateCreated>
+  <dateModified>2022-11-30 09:20:46.471 UTC</dateModified>
+</layer>

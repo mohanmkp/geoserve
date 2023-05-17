@@ -1,0 +1,17 @@
+<layer>
+  <name>waterway</name>
+  <id>LayerInfoImpl--5c206f41:184c7b7cab7:-7fd8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--6d0ffba7:184eaeeb3fb:-7ff7</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5c206f41:184c7b7cab7:-7fd9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-11-30 09:02:24.422 UTC</dateCreated>
+  <dateModified>2022-12-07 05:32:47.877 UTC</dateModified>
+</layer>

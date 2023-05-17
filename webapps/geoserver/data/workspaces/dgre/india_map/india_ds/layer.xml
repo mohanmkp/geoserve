@@ -1,0 +1,17 @@
+<layer>
+  <name>india_ds</name>
+  <id>LayerInfoImpl--66a2ef47:187c178ba8a:-7ff1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-6b919524:1866def12d8:-7ffe</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--66a2ef47:187c178ba8a:-7ff2</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-04-27 07:03:03.722 UTC</dateCreated>
+  <dateModified>2023-04-27 07:11:25.436 UTC</dateModified>
+</layer>

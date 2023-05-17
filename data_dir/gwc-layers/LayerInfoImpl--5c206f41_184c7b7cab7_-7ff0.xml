@@ -1,0 +1,37 @@
+<GeoServerTileLayer>
+  <id>LayerInfoImpl--5c206f41:184c7b7cab7:-7ff0</id>
+  <enabled>true</enabled>
+  <inMemoryCached>true</inMemoryCached>
+  <name>osm_north:districts</name>
+  <mimeFormats>
+    <string>image/jpeg</string>
+    <string>image/png</string>
+  </mimeFormats>
+  <gridSubsets>
+    <gridSubset>
+      <gridSetName>EPSG:4326</gridSetName>
+    </gridSubset>
+    <gridSubset>
+      <gridSetName>EPSG:900913</gridSetName>
+    </gridSubset>
+    <gridSubset>
+      <gridSetName>3857</gridSetName>
+    </gridSubset>
+  </gridSubsets>
+  <metaWidthHeight>
+    <int>4</int>
+    <int>4</int>
+  </metaWidthHeight>
+  <expireCache>0</expireCache>
+  <expireClients>0</expireClients>
+  <parameterFilters>
+    <styleParameterFilter>
+      <key>STYLES</key>
+      <defaultValue></defaultValue>
+      <availableStyles class="sorted-set"/>
+      <defaultStyle>boundary</defaultStyle>
+    </styleParameterFilter>
+  </parameterFilters>
+  <gutter>0</gutter>
+  <cacheWarningSkips/>
+</GeoServerTileLayer>

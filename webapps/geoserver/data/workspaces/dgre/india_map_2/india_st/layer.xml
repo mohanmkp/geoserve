@@ -1,0 +1,16 @@
+<layer>
+  <name>india_st</name>
+  <id>LayerInfoImpl--66a2ef47:187c178ba8a:-7fee</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-6b919524:1866def12d8:-7ffe</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--66a2ef47:187c178ba8a:-7fef</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-04-27 07:04:25.584 UTC</dateCreated>
+</layer>

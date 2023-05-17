@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--66a2ef47:187c178ba8a:-7fef</id>
+  <name>india_st</name>
+  <nativeName>india_st</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--66a2ef47:187c178ba8a:-7ffb</id>
+  </namespace>
+  <title>india_st</title>
+  <keywords>
+    <string>features</string>
+    <string>india_st</string>
+  </keywords>
+  <srs>EPSG:404000</srs>
+  <nativeBoundingBox>
+    <minx>68.35859</minx>
+    <maxx>97.46212</maxx>
+    <miny>6.733651</miny>
+    <maxy>37.03473</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>68.35859</minx>
+    <maxx>97.46212</maxx>
+    <miny>6.733651</miny>
+    <maxy>37.03473</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--66a2ef47:187c178ba8a:-7ff0</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

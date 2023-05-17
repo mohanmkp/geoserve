@@ -1,0 +1,48 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-58b6d5d8:184e141a5d7:-7fff</id>
+  <name>osm_north</name>
+  <mode>SINGLE</mode>
+  <title>osm_north</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--5c206f41:184c7b7cab7:-8000</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--5c206f41:184c7b7cab7:-7ffa</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5c206f41:184c7b7cab7:-7fee</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5c206f41:184c7b7cab7:-7ffc</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-cc102d0:184e1b26b6a:-7fe5</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--3ce3f0e3:184c7cf52cc:-7fff</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--3ce3f0e3:184c7cf52cc:-7ff9</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--3ce3f0e3:184c7cf52cc:-7ffe</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>7688599.0</minx>
+    <maxx>8897980.0</maxx>
+    <miny>2614549.75</miny>
+    <maxy>4255931.5</maxy>
+    <crs class="projected">EPSG:3857</crs>
+  </bounds>
+  <dateCreated>2022-12-05 07:54:31.134 UTC</dateCreated>
+  <dateModified>2022-12-07 06:02:57.22 UTC</dateModified>
+</layerGroup>

@@ -1,0 +1,16 @@
+<layer>
+  <name>amenity</name>
+  <id>LayerInfoImpl-cc102d0:184e1b26b6a:-7fe7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-cc102d0:184e1b26b6a:-7fe8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-12-05 10:19:01.421 UTC</dateCreated>
+</layer>

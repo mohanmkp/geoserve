@@ -1,0 +1,17 @@
+* {
+  stroke: orange, yellow;
+  stroke-width: 6, 2;
+  stroke-linecap: round;
+  z-index: 1, 2;
+  label: [label_name];
+  font-fill: black;
+  font-family: Arial;
+  font-size: 12;
+  font-weight: bold;
+  halo-color: white;
+  halo-radius: 2;
+  -gt-label-follow-line: true;
+  -gt-label-group: true;
+  -gt-label-repeat: 400;
+  -gt-label-max-displacement: 50;
+}

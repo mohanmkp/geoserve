@@ -1,0 +1,17 @@
+<layer>
+  <name>trunk_primary</name>
+  <id>LayerInfoImpl--5c206f41:184c7b7cab7:-7fda</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-62455df:184e11a87c1:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5c206f41:184c7b7cab7:-7fdb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-11-30 09:02:09.186 UTC</dateCreated>
+  <dateModified>2022-12-05 07:09:54.880 UTC</dateModified>
+</layer>

@@ -1,0 +1,16 @@
+<layer>
+  <name>rails</name>
+  <id>LayerInfoImpl--5c206f41:184c7b7cab7:-7fe4</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5c206f41:184c7b7cab7:-7fe5</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-11-30 08:58:50.618 UTC</dateCreated>
+</layer>

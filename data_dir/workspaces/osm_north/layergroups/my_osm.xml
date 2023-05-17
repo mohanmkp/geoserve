@@ -1,0 +1,59 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--6d0ffba7:184eaeeb3fb:-7fe0</id>
+  <name>my_osm</name>
+  <mode>SINGLE</mode>
+  <title>my_osm</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--5c206f41:184c7b7cab7:-8000</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--5c206f41:184c7b7cab7:-7ffa</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5c206f41:184c7b7cab7:-7fee</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5c206f41:184c7b7cab7:-7ffc</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5c206f41:184c7b7cab7:-7fec</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5c206f41:184c7b7cab7:-7fea</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-cc102d0:184e1b26b6a:-7fe5</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--3ce3f0e3:184c7cf52cc:-7fff</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--3ce3f0e3:184c7cf52cc:-7ff9</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--3ce3f0e3:184c7cf52cc:-7ffe</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--3ce3f0e3:184c7cf52cc:-7ffe</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--6d0ffba7:184eaeeb3fb:-7fe3</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>7688599.0</minx>
+    <maxx>8897980.0</maxx>
+    <miny>2614549.75</miny>
+    <maxy>4255931.5</maxy>
+    <crs class="projected">EPSG:3857</crs>
+  </bounds>
+  <dateCreated>2022-12-07 06:12:22.494 UTC</dateCreated>
+</layerGroup>
